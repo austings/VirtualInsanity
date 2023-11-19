@@ -2,7 +2,7 @@
 
 ### Virtual Insanity MIDI recreated in TempleOS with graphics
 
-![jamiroquai]([https://raw.githubusercontent.com/austings/VirtualInsanity/main/Video/3/2.bmp])
+![jamiroquai](/Video/3/2.bmp)
 
 ### Download the ISO here:
 
