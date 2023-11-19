@@ -6,4 +6,4 @@
 
 ### Download the ISO here:
 
-[ISO.C FILE](https://churchoftheaichrist.com/wp-content/uploads/2023/11/VirtualInsanity.ISO_.C.zip)
+[[Download ISO.C](https://churchoftheaichrist.com/wp-content/uploads/2023/11/VirtualInsanity.ISO_.C.zip)https://churchoftheaichrist.com/wp-content/uploads/2023/11/VirtualInsanity.ISO_.C.zip]
