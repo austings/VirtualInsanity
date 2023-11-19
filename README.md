@@ -1,6 +1,6 @@
 # VirtualInsanity
 
-### Virtual Insanity MIDI recreated in TempleOS with graphics
+### Virtual Insanity Mono recreated in TempleOS with graphics
 
 ![jamiroquai](/Video/3/2.bmp)
 
